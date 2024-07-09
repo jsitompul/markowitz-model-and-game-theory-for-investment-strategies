@@ -1,4 +1,4 @@
-# m=Markowitz Model and Game Theory for Investment Strategies
+# Markowitz Model and Game Theory for Investment Strategies
 
 ## Abstract
 Our project focuses on the comparison of four different portfolios comprised of ten financial instruments each as well as a combined portfolio in order to determine which, under the Markowitz portfolio strategy, are most effective at maximizing returns under assumed acceptable levels of risk. We use our individual training datasets to compute a Markowitz strategy `y` over a range of risk parameters, plot our strategies against one another, and subsequently use validation data to evaluate the best risk parameter and testing data to assess strategy. Moreover, we analyze these results against the game theory framework wherein there is no notion of risk.
