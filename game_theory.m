@@ -9,7 +9,7 @@
 %"Jimmy" reads the (sxt) table in "Jimmy's.xlsx" as the variable
 %"Averys".
 Jimmy = Jimmys;
-[s t] = size(Avery);
+[s t] = size(Jimmy);
 
 %A takes the last 100 rows of the different matrices, but still takes all
 %the investments j.
